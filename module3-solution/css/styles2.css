@@ -1,0 +1,60 @@
+
+#header{
+    border : 1px solid black;
+}
+#button-press{
+    background-color:lightgrey;
+}
+
+.nav-items{
+    color: black;
+    border: 1px solid black;
+}
+.navbar-toggle{
+    border: 1px solid black;
+}
+.container-fluid{
+    border : 2px solid black;
+    margin: 0px;
+    padding: 0px;
+}
+.icon-bar{
+    background-color: black;
+    width: 100%;
+}
+.navbar{
+    background-color: lightgrey;
+}
+.navbar-brand{
+    font-size: 23px;
+    color: black;
+    margin: 0px;
+}
+.navbar-nav{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.li{
+    margin-bottom: 5px;
+}
+.title{
+    text-align: center;
+}
+
+.item{
+    margin: 5px 10px 15px 20px;
+    padding: 25px;
+    width: auto;
+    height: auto;
+    background-color: lightgrey;
+    border: 2px solid black;
+    color: black;
+}
+.text-center{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
+
